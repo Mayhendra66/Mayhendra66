@@ -1,5 +1,8 @@
-# 💫 About Me:
-I'm an active university student and freelancer<br>specializing in information systems and web technology.<br><br>I build web-based applications — from internal management<br>systems to payment-integrated platforms — with a focus on<br>clean architecture and practical solutions.<br><br>When I'm not studying, I'm taking on freelance projects,<br>turning real-world problems into working software.
+# (ˉ﹃ˉ)🥤 Its Me:
+I am an active university student and freelance developer who is passionate about creating impactful digital solutions.<br><br>
+I have hands-on experience working on various projects, focusing on delivering efficient and practical results.<br>
+My journey as a freelancer has strengthened my problem-solving mindset, responsibility, and consistency in delivering quality work.<br><br>
+I am continuously learning and open to new opportunities, collaborations, and challenges that help me grow as a developer.
 
 
 ## 🌐 Socials:
